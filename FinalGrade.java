@@ -11,7 +11,7 @@ public class FinalGrade {
 		double f_exam; // variable stores the weight of the final exam
 		double required; // variable store the required grade on the final exam to reach that desired grade
 		
-		int choice = 1;
+		int choice ;
 		
 		
 		JOptionPane.showMessageDialog(null, "Welcome to Emmanuel's Final Grade Calculator !"); // welcome message
